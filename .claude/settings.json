@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter build:*)",
+      "Read(//c/Users/21646/AppData/Local/Temp/claude/c--Users-21646-Desktop-flutter-proj-mon-projet/4cffa7b1-d858-46ca-9353-c08eff5f4827/tasks/**)",
+      "Bash(start \"\" \"c:\\\\Users\\\\21646\\\\Desktop\\\\flutter proj\\\\mon_projet\")",
+      "Bash(start \"\" \"c:\\\\Users\\\\21646\\\\Desktop\\\\flutter proj\\\\backend\")",
+      "Bash(explorer.exe \"c:\\\\Users\\\\21646\\\\Desktop\\\\flutter proj\\\\mon_projet\")",
+      "Bash(explorer.exe \"c:\\\\Users\\\\21646\\\\Desktop\\\\flutter proj\\\\backend\")",
+      "Bash(cmd.exe /c \"explorer \\\\\"c:\\\\Users\\\\21646\\\\Desktop\\\\flutter proj\\\\mon_projet\\\\\"\")",
+      "Bash(cmd.exe /c \"explorer \\\\\"c:\\\\Users\\\\21646\\\\Desktop\\\\flutter proj\\\\backend\\\\\"\")",
+      "Bash(cmd.exe /c \"code \\\\\"c:\\\\Users\\\\21646\\\\Desktop\\\\flutter proj\\\\mon_projet\\\\\"\")",
+      "Bash(cmd.exe /c \"code \\\\\"c:\\\\Users\\\\21646\\\\Desktop\\\\flutter proj\\\\backend\\\\\"\")"
+    ]
+  }
+}
